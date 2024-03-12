@@ -1,4 +1,4 @@
-![Let's Connect and](https://github.com/Sakshibhopale/Sakshibhopale/assets/130786981/9ce87092-3a66-478b-b1de-6c78a828aafc)
+<img src="https://github.com/Sakshibhopale/Sakshibhopale/assets/130786981/9ce87092-3a66-478b-b1de-6c78a828aafc" alt="banner" height="200"/>
 <h1 align="center">Hi 👋, I'm Sakshi Bhopale</h1>
 <h3 align="center">🌐 Web Developer | 📊 Project Manager | 🚀 Tech Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&usqp=CAU">
