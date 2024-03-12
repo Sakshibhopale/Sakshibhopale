@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshibhopale&label=Profile%20views&color=0e75b6&style=flat" alt="sakshibhopale" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 **Java Developer**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/sakshi-bhopale-16a4b0251](www.linkedin.com/in/sakshi-bhopale-16a4b0251)
 
