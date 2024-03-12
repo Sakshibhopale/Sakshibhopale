@@ -1,4 +1,3 @@
-//![logo](https://github.com/Sakshibhopale/Sakshibhopale/blob/main/2.png)
 ![Let's Connect and](https://github.com/Sakshibhopale/Sakshibhopale/assets/130786981/9ce87092-3a66-478b-b1de-6c78a828aafc)
 <h1 align="center">Hi 👋, I'm Sakshi Bhopale</h1>
 <h3 align="center">🌐 Web Developer | 📊 Project Manager | 🚀 Tech Enthusiast</h3>
